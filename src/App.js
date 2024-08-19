@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Primo giorno di react
         </p>
         <div className='d-flex'>
         <ButtonComponent buttonName ="React DOM" buttonLink="https://it.legacy.reactjs.org/docs/react-dom.html"/>
